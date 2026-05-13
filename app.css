@@ -43,4 +43,5 @@ h2 {
 }
 .quote cite {
     display: block;
+    font-weight: bold;
 }
