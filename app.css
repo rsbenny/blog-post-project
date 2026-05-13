@@ -44,4 +44,5 @@ h2 {
 .quote cite {
     display: block;
     font-weight: bold;
+    margin-left: 20px;
 }
