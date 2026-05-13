@@ -41,3 +41,6 @@ h2 {
     border-left: #e95400 2px solid;
     padding-left: 16px;
 }
+.quote cite {
+    display: block;
+}
