@@ -40,6 +40,7 @@ h2 {
     font-size: 14px;
     border-left: #e95400 2px solid;
     padding-left: 16px;
+    margin: 32px 0 32px 32px;
 }
 .quote cite {
     display: block;
