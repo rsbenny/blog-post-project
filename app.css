@@ -8,6 +8,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: Bitter, serif;
 }
+h1 {
+    font-size: 80px;
+    letter-spacing: -1.5px;
+    font-weight: 400;
+}
 .content {
     max-width: 900px;
     margin: 0 auto;
