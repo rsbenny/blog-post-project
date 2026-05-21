@@ -39,6 +39,9 @@ h6 {
     margin: 0 auto;
     padding: 32px;
 }
+.content h3 {
+    text-transform: capitalize;
+}
 .info {
     text-align: center;
     text-transform: uppercase;
