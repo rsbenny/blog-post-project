@@ -80,3 +80,6 @@ code {
 footer {
     background-color: #863ae8;
 }
+footer ul {
+    list-style: none;
+}
