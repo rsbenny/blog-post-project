@@ -39,6 +39,7 @@ h6 {
     background-color: #863ae8;
     height: 100vh;
     color: white;
+    text-align: center;
 }
 .hero h1, .hero p {
     width: 75%;
