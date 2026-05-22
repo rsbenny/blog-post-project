@@ -86,6 +86,7 @@ footer ul {
     max-width: 900px;
     margin: 0 auto;
     text-align: center;
+    padding: 28px 0;
 }
 footer ul li {
     display: inline;
