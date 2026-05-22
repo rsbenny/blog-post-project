@@ -40,6 +40,9 @@ h6 {
     height: 100vh;
     color: white;
 }
+.hero h1, .hero p {
+    width: 75%;
+}
 .content {
     max-width: 900px;
     margin: 0 auto;
