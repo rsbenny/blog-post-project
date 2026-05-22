@@ -86,3 +86,6 @@ footer ul {
 footer ul li {
     display: inline;
 }
+footer li a {
+    color: white;
+}
