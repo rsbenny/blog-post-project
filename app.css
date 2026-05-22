@@ -38,6 +38,7 @@ h6 {
 .hero {
     background-color: #863ae8;
     height: 100vh;
+    color: white;
 }
 .content {
     max-width: 900px;
